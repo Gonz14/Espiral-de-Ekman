@@ -9,6 +9,8 @@ Original file is located at
 
 # Código de espiral de Ekman
 # [Gonzalo Salvador Hidalgo Faloco] - 2do Cuatrimestre 2025 Oceanografía Teórica
+#Fuente: Atmospheric and Oceanic Fluid Dynamics Fundamentals and Large-Scale Circulation Second Edition GEOFFREY K. VALLIS p. 208-209
+# También se puede acceder a las ecuaciones en el siguiente PDF: https://uhslc.soest.hawaii.edu/ocn620/notes_pdf/ekman.pdf
 import numpy as np
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import Axes3D
